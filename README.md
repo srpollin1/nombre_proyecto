@@ -1,2 +1,3 @@
 # nombre_proyecto
-Test
+# https://developer.themoviedb.org/reference/search-movie
+# https://www.themoviedb.org/settings/api
